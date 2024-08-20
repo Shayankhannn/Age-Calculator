@@ -1,3 +1,6 @@
+
+// scrpt 
+
 // Get the required elements from the DOM
 const birthdateInput = document.getElementById('birthdate');
 const calculateButton = document.getElementById('calculate-btn');
